@@ -2,6 +2,14 @@
 
 Here you can find friend links to all AngularWave articles to read it for free
 
+
+
+- [ng-morph is the best way to do big changes in your Angular project](https://medium.com/angularwave/ng-morph-is-the-best-way-to-do-big-changes-in-your-angular-project-217c4051beeb?sk=e82b3726609c3179a1468a5d9a2711e9)
+
+- [The magic of ContentChild, ViewChild and Template References](https://medium.com/angularwave/the-magic-of-contentchild-viewchild-and-template-references-d1cbf7f819c4?sk=a14b79fcb64a8b54737d43b6bee400bd)
+
+- [How to make your code more abstract and support Angular Universal / Ionic without efforts](https://medium.com/angularwave/how-to-make-your-code-more-abstract-and-support-angular-universal-ionic-without-efforts-7b16273658db?sk=752ffb35983f38e82be8e45759371ed4)
+
 - [How to cook RxJS in an Angular app: tips & tricks](https://medium.com/angularwave/how-to-cook-rxjs-in-an-angular-app-tips-tricks-afd9fbdc4d31?sk=c9f8b1ee71177aa2cf359f4228489b5f)
 
 - [Non-binary ngIf](https://medium.com/angularwave/non-binary-ngif-cfdf7c474852?sk=9410f8dbdbd9c34736fd2f2b47e2bab8)
