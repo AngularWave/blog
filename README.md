@@ -2,7 +2,13 @@
 
 Here you can find friend links to all AngularWave articles to read it for free
 
+- [Web APIs for Angular](https://medium.com/angularwave/web-apis-for-angular-e9ae3206ed1d?sk=677205fca391daf72e5de75acb203301)
 
+- [How ng-morph can help you keep your big monorepo always clean as new](https://medium.com/angularwave/how-ng-morph-can-help-you-keep-your-big-monorepo-always-clean-as-new-bbca8e62c4b3?sk=3d77c93da30e365653ed3fb01fc9a488)
+
+- [ng-morph is your first assistant for Angular libs development](https://medium.com/angularwave/ng-morph-is-your-first-assistant-for-angular-libs-development-ac06dbb00f99?sk=2e8d33348c7bb8041f0e0fd3454979bb)
+
+- [8 Angular Myths It’s Time to Forget](https://medium.com/angularwave/8-common-angular-myths-3f7dfdc2a702)
 
 - [ng-morph is the best way to do big changes in your Angular project](https://medium.com/angularwave/ng-morph-is-the-best-way-to-do-big-changes-in-your-angular-project-217c4051beeb?sk=e82b3726609c3179a1468a5d9a2711e9)
 
