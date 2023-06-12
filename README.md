@@ -1,2 +1,4 @@
-# blog
-Friend links to all Angular Wave articles
+# Angular Wave blog
+
+Here you can find friend links to all AngularWave articles to read it for free
+
