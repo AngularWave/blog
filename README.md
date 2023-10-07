@@ -30,6 +30,12 @@ Here you can find friend links to all AngularWave articles to read it for free
 
 - [A simple trick you need for dynamic ContentChildren](https://medium.com/angularwave/a-simple-trick-you-need-for-dynamic-contentchildren-6ed0eae49cb4?sk=49dfea53943ab2a2a850e4abce2f2cf7)
 
+- [Tracking user interaction area] (https://medium.com/angularwave/tracking-user-interaction-area-6ad3ab7f0c8b?sk=aef3ab96e7aa2db73dc53c0bfe38d1c3)
+
+- [Telegraph with RxJS](https://medium.com/angularwave/telegraph-with-rxjs-5c74e2f585b3?sk=0b24eee3793094a497c3fbca39ac2ad6)
+
+- [Web APIs for Angular](https://medium.com/angularwave/web-apis-for-angular-e9ae3206ed1d?sk=677205fca391daf72e5de75acb203301)
+
 ### RxJS challenges
 
 See [rxjs-challenge repo](https://github.com/AngularWave/rxjs-challenge/tree/main)
